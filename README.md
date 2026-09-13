@@ -4,7 +4,7 @@
 
 
 
-\# Section I: Review Questions
+# Section I: Review Questions
 
 
 
